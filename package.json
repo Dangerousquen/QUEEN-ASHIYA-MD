@@ -1,7 +1,7 @@
 {
-  "name": "💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞",
+  "name": "💞 TASKEEN BALOCH 💞",
   "version": "2.0.0",
-  "description": "Sri Lankan World Best Whatsapp BOT",
+  "description": "PAKISTAN World Best Whatsapp BOT",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "IshanSandeepa",
+  "author": "taskeenbaloch",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
@@ -68,7 +68,7 @@
     "url": "git+https://github.com/ishansandeepa757/QUEEN-ASHIYA-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/ishansandeepa757/QUEEN-ASHIYA-MD/issues"
+    "url": "https://github.com/taskeenbaloch0786/QUEEN-ASHIYA-MD/issues"
   },
-  "homepage": "https://github.com/ishansandeepa757/QUEEN-ASHIYA-MD#readme"
+  "homepage": "https://github.com/taskeenbaloch0786/QUEEN-ASHIYA-MD#readme"
 }
