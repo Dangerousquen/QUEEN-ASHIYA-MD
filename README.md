@@ -5,7 +5,7 @@
 
 ----
 
-## I Am 💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞
+## I Am 💞 TASKEEN BALOCH 💞
 
 
 
@@ -83,7 +83,7 @@
 
 
 
-<b><details><summary>𝐐𝐔𝐄𝐄𝐍 𝐀𝐒𝐇𝐈𝐘𝐀 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐖𝐞𝐛𝐬𝐢𝐭𝐞</summary><br>
+<b><details><summary>TASKEEN 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐖𝐞𝐛𝐬𝐢𝐭𝐞</summary><br>
 	
 
 [```🎀  𝒞𝐿𝐼𝒞𝒦 𝐻𝐸𝑅𝐸  🎀```](https://sites.google.com/view/queen-ashiya/home)
@@ -98,7 +98,7 @@
 
 *  ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/94786746412"><img src="https://img.shields.io/badge/Contact Mr.Ishan Sandeepa-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/923216740469"><img src="https://img.shields.io/badge/Contact Mr.Ishan Sandeepa-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a /><br>
 </p>
 
@@ -116,7 +116,7 @@
 	
 ## License  
 
-@ Ishan Sandeepa .....
+@ TASKEEN BALOCH .....
 
 
 ----
