@@ -2,7 +2,7 @@
 //                    💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞
 //                              
 //             
-//       𝕊𝕣𝕚 𝕃𝕒𝕟𝕜𝕒 𝔹𝕖𝕤𝕥  𝕎𝕙𝕒𝕥𝕤𝕒𝕡𝕡 𝔹𝕆𝕋...
+//       pakistan 𝔹𝕖𝕤𝕥  𝕎𝕙𝕒𝕥𝕤𝕒𝕡𝕡 𝔹𝕆𝕋...
 //
 //════════════════════════════//
 
@@ -22,25 +22,25 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['94786746412'] //your owner number
-global.premium = ['94786746412'] //your Owner number in menu msg
-global.ownernomer = '94786746412' //your owner number info
+global.owner = ['923216740469'] //your owner number
+global.premium = ['923216740469'] //your Owner number in menu msg
+global.ownernomer = '923216740469' //your owner number info
 
-global.ownername = 'Ishan Sandeepa' //your owner name
-global.botname = '💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞' //your bot name    // ඔයා බොට්ගේ නම නම් වෙනස් කලාට වැඩක් නෑ... බොට්ගේ නම ( 💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞 ) තමයි...
-global.footer = '💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞' 
+global.ownername = :Taskeen baloch //your owner name
+global.botname = '💞 TASKEEN BALOCH  💞' //your bot name    // ඔයා බොට්ගේ නම නම් වෙනස් කලාට වැඩක් නෑ... බොට්ගේ නම ( 💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞 ) තමයි...
+global.footer = '💞 TASKEEN BALOCH 💞' 
 
 global.ig = 'https://github.com/ishansandeepa757' //Github Account!
-global.region = 'Sri Lanka'
+global.region = 'PAKISTAN'
 global.sc = 'https://github.com/ishansandeepa757'
 global.myweb = 'https://www.youtube.com/c/SinhanadaMusicRemix' //your chanal link
-global.packname = '💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞'
+global.packname = '💞 TASKEEN BALOCH 💞'
 
 global.alivemsgimage = 'https://wallpaperaccess.com/full/3008776.jpg' // ඔයාගේ Alive massege එකට වැටෙන්න ඕන image එකක Link එකක් මෙතනට දෙන්න...
 
 global.chatbotpre = "true"
 
-global.author = '𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺:- 𝘐𝘴𝘩𝘢𝘯 𝘚𝘢𝘯𝘥𝘦𝘦𝘱𝘢'
+global.author = '𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺:- TASKEEN BALOCH'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']                          // 👈 මේවා ඔයාට ඕන විදියට වෙනස් කර ගන්න \\ 
 global.sp = '⭔'
